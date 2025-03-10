@@ -78,7 +78,6 @@ Whether you're a student, researcher, or developer, this resource will help you 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/image-processing-techniques.git
-   ---
 
 ⭐️ Feel free to star this repository if you find it helpful!
    
