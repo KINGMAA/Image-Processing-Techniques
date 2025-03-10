@@ -1,4 +1,4 @@
-# Image Processing Techniques - Notes
+# Image Processing Techniques
 
 ## 1. Averaging Filter
 - **Description:** Blurs the image by averaging pixel values in a defined kernel window. Reduces noise but may lose sharpness.
