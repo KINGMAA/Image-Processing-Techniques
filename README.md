@@ -69,7 +69,7 @@ Whether you're a student, researcher, or developer, this resource will help you 
 | 7. | **Laplacian Operator** | [Open in Colab](https://colab.research.google.com/drive/1zSBnt3lHF-s7O4w1cvtsM_O2oRLS-1OL?usp=sharing) |
 | 8. | **Histogram Equalization** | [Open in Colab](https://colab.research.google.com/drive/1608PDxTu_eU0unKVQUcSXUqyyFfkdrML?usp=sharing) |
 | 9. | **Median Filter** | [Open in Colab](https://colab.research.google.com/drive/13G0WRnCP7ehwZKiSQW7GujfyJ91Ciuo5?usp=sharing) |
-| 10. | **Gaussian Noise Filter** | [Open in Colab](https://colab.research.google.com/drive/1tYDCVtf-bEiZUnihxhcL9sP3sy-PJYMb?usp=sharing) |
+| 10. | **Gaussian Noise Filter** | [Open in Colab](https://colab.research.google.com/drive/1QqsFD7cB0yaNLC1hXH0uJwjTmJrDOoRW?usp=sharing) |
 | 11. | **Fourier Transform Filter** | [Open in Colab](https://colab.research.google.com/drive/14MtOSR9nRXHzokVcEu14FE2UAXbZuucd?usp=sharing) |
 | 12. | **Unsharp Masking and Highboost Filtering** | [Open in Colab](https://colab.research.google.com/drive/1GaMHDoCw2UOBc-4sGzLQPfdGs_9KRtP9?usp=sharing) |
 | 13. | **Histogram Specialization** | [Open in Colab](https://colab.research.google.com/drive/18TJ2c64T5gIwB_8z1TtcAHLgVTxj7xRO?usp=sharing) |
