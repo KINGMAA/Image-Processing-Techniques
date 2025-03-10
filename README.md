@@ -4,9 +4,9 @@ This repository provides a comprehensive collection of common **Image Processing
 
 Whether you're a student, researcher, or developer, this resource will help you understand and apply key image processing methods efficiently.
 
-## 1. Averaging Filter
-- **Description:** Blurs the image by averaging pixel values in a defined kernel window. Reduces noise but may lose sharpness.
-- **Best For:** Smoothing and noise reduction in low-detail regions.
+## 1. Huffman Coding
+- **Description:** Huffman coding is a lossless data compression algorithm that assigns variable-length codes to input characters, with shorter codes for more frequently occurring characters. It builds an optimal prefix tree (Huffman Tree) for efficient encoding.
+- **Best For:** Reducing file sizes for text, images, and audio files without losing data quality.
 
 ## 2. Gaussian Smoothing Filter
 - **Description:** Uses a Gaussian kernel for smoothing, giving more weight to central pixels for better noise reduction.
@@ -53,26 +53,26 @@ Whether you're a student, researcher, or developer, this resource will help you 
 - **Best For:** Improving image clarity and sharpening details.
 
 ## 13. Histogram Specialization
-- **Description:** Customizes histogram behavior for enhanced contrast manipulation.
+- **Description:** Customizes histogram behaviour for enhanced contrast manipulation.
 - **Best For:** Precision contrast adjustment in medical or scientific imaging.
 
 ---
 ## 📋 Techniques Table with Colab Links
 | No. | Technique | Colab Link |
 |:---:|:--------------------------|:-----------|
-| 1. | **Averaging Filter** | [Open in Colab](#) |
-| 2. | **Gaussian Smoothing Filter** | [Open in Colab](#) |
-| 3. | **Sobel Operators** | [Open in Colab](#) |
-| 4. | **Uniform Noise** | [Open in Colab](#) |
-| 5. | **Impulsive Noise** | [Open in Colab](#) |
-| 6. | **Adaptive Filter (Median, Min, Max)** | [Open in Colab](#) |
-| 7. | **Laplacian Operator** | [Open in Colab](#) |
-| 8. | **Histogram Equalization** | [Open in Colab](#) |
-| 9. | **Median Filter** | [Open in Colab](#) |
-| 10. | **Gaussian Noise Filter** | [Open in Colab](#) |
-| 11. | **Fourier Transform Filter** | [Open in Colab](#) |
-| 12. | **Unsharp Masking and Highboost Filtering** | [Open in Colab](#) |
-| 13. | **Histogram Specialization** | [Open in Colab](#) |
+| 1. | **Huffman Coding** | [Open in Colab](https://colab.research.google.com/drive/1uKBVOpsYUb3xuY-lA5GzJxZLVbRV8eNM?usp=sharing) |
+| 2. | **Gaussian Smoothing Filter** | [Open in Colab](https://colab.research.google.com/drive/1elwFqeB0Vma4iPDLXvlNkTJaz7oNLs3v?usp=sharing) |
+| 3. | **Sobel Operators** | [Open in Colab](https://colab.research.google.com/drive/1uVM6xku0oC9iMvjN0Db6qbd5yOh8ZG_z?usp=sharing) |
+| 4. | **Uniform Noise** | [Open in Colab](https://colab.research.google.com/drive/1Z1LUvN3DkZAA8nnOV-VBuprUvpCtvijy?usp=sharing) |
+| 5. | **Impulsive Noise** | [Open in Colab](https://colab.research.google.com/drive/1PPEirR1ZsQ_sD3o_nq8PyvEPnejcz-Zu?usp=sharing) |
+| 6. | **Adaptive Filter (Median, Min, Max)** | [Open in Colab](https://colab.research.google.com/drive/1sReoJYZtFUt78YYdDuASl1ttrqXbW3kP?usp=sharing) |
+| 7. | **Laplacian Operator** | [Open in Colab](https://colab.research.google.com/drive/1zSBnt3lHF-s7O4w1cvtsM_O2oRLS-1OL?usp=sharing) |
+| 8. | **Histogram Equalization** | [Open in Colab](https://colab.research.google.com/drive/1608PDxTu_eU0unKVQUcSXUqyyFfkdrML?usp=sharing) |
+| 9. | **Median Filter** | [Open in Colab](https://colab.research.google.com/drive/13G0WRnCP7ehwZKiSQW7GujfyJ91Ciuo5?usp=sharing) |
+| 10. | **Gaussian Noise Filter** | [Open in Colab](https://colab.research.google.com/drive/1tYDCVtf-bEiZUnihxhcL9sP3sy-PJYMb?usp=sharing) |
+| 11. | **Fourier Transform Filter** | [Open in Colab](https://colab.research.google.com/drive/14MtOSR9nRXHzokVcEu14FE2UAXbZuucd?usp=sharing) |
+| 12. | **Unsharp Masking and Highboost Filtering** | [Open in Colab](https://colab.research.google.com/drive/1GaMHDoCw2UOBc-4sGzLQPfdGs_9KRtP9?usp=sharing) |
+| 13. | **Histogram Specialization** | [Open in Colab](https://colab.research.google.com/drive/18TJ2c64T5gIwB_8z1TtcAHLgVTxj7xRO?usp=sharing) |
 
 ## 🚀 How to Use
 1. **Clone the Repository**
